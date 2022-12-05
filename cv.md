@@ -28,4 +28,4 @@ I don't have expirience at real projects.
  * HTML Academy
  * CS50 lectures
 ## English
-A2 (I can read technical literature
+A2 (I can read technical literature). B1 in progress...
